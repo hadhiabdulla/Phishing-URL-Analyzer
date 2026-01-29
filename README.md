@@ -190,7 +190,7 @@ This tool is for educational and research purposes only. Always exercise caution
 
 ## 👨‍💻 Author
 
-**Hadhi Abdullah**
+**Hadhi Abdulla**
 - GitHub: [@hadhiabdulla](https://github.com/hadhiabdulla)
 - LinkedIn: [Connect with me](https://linkedin.com)
 
